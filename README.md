@@ -1,4 +1,6 @@
-This is a chat bot web application build on MERN stack. ChatGPT API is used to fetch the results. <br><br>
+<h1>CHAT BOT</h1>
+
+This is a web application build on MERN stack. ChatGPT API is used to fetch the results. <br><br>
 In this site, there is the functionality of email signin and signups. <br><br>
 Chats are stored in mongo database.<br><br>
 You can voice search and voice result your queries.<br><br>
